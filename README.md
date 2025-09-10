@@ -6,7 +6,7 @@ Havent been able to find any form of offical proof of Yume Nikki or 2kki or real
 - [Abandoned forum post](https://gbatemp.net/threads/yume-nikki-psp.365497/)
 - [easy rpg forum post talking abt their abandoned hopes dreams](https://community.easyrpg.org/t/psp-support-port/278)
 - [another forum that i hoped had success](https://archive.uboachan.net/yn/res/2833.xhtml)
-- [the last like offical EASYrpg work done towards the project](https://blog.easyrpg.org/2011/02/)
+- [the last like offical easyrpg work done towards the project](https://blog.easyrpg.org/2011/02/)
 - [2kki builds](https://yume.wiki/2kki/Version_History)
   Abandoned builds
 - somewhat sketchy site with a half finished broken build of the abandoned easyrpg psp port [CLICK AT YOUR OWN RISK](https://www.gamebrew.org/wiki/EasyRPG_PSP)
