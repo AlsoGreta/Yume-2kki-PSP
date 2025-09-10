@@ -12,7 +12,7 @@ Havent been able to find any form of offical proof of Yume Nikki or 2kki or real
 - somewhat sketchy site with a half finished broken build of the abandoned easyrpg psp port [CLICK AT YOUR OWN RISK](https://www.gamebrew.org/wiki/EasyRPG_PSP)
 - archive from archive.org with 3 various condtion ports, none of which worked for me [but here they are](https://archive.org/details/easyrpg-psp-0.2.1-testing.7z)
 # How You Might Ask?
-I was able to collect a few attemted but abandoned ports (most unworking) , fucked around and mixed the files together, somehow got atleast a stable port of rpgmaker 2000 out of it. I dont claim any of this code as my own work, just proof of getting it working.
+I collected a few attemted but abandoned ports  and projects over the years(most unworking) , fucked around and mixed the files together, somehow got atleast a stable port of rpgmaker 2000 out of it. I dont claim any of this code as my own work, just proof of getting it working.
 ![nikki psp2](https://github.com/AlsoGreta/Yume-2kki-PSP/blob/main/20250806_165728-1.jpg)
 ### Known issues
 - due to hardware limitations i had to use a really early build of yume 2kki, working on finding a better version that works
