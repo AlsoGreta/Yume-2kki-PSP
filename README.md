@@ -14,6 +14,11 @@ Havent been able to find any form of offical proof of Yume Nikki or 2kki or real
 # How You Might Ask?
 I collected a few attemted but abandoned ports  and projects over the years(most unworking) , fucked around and mixed the files together, somehow got atleast a stable port of rpgmaker 2000 out of it. I dont claim any of this code as my own work, just proof of getting it working.
 ![nikki psp2](https://github.com/AlsoGreta/Yume-2kki-PSP/blob/main/20250806_165728-1.jpg)
+## Installation Instructions
+- Download the folder "RPG2KPP012B04" and a copy of 2kii from their [Version History](https://yume.wiki/2kki/Version_History) I got ver0.086e working. newer versions i was unable to get working.
+- put the copy of 2kki in the  "RPG2KPP012B04" folder
+- put the  "RPG2KPP012B04" folder in PSP>GAME>COMMON
+- play 2kki on psp
 ### Known issues
 - due to hardware limitations i had to use a really early build of yume 2kki, working on finding a better version that works
 - i doubt this works on PSP 1000 models if at all. the 2000/3000 models with having 32mb more ram just work a little better, havent tested as i only have a PSP3000 so i dont know.
